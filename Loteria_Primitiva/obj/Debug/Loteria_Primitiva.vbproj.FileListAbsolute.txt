@@ -1,0 +1,13 @@
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\bin\Debug\Loteria_Primitiva.exe.config
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\bin\Debug\Loteria_Primitiva.exe
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\bin\Debug\Loteria_Primitiva.pdb
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\bin\Debug\Loteria_Primitiva.xml
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.vbproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.Form1.resources
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.Resources.resources
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.vbproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.vbproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.exe
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.xml
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.pdb
+C:\Users\Juan\source\repos\Loteria_Primitiva\Loteria_Primitiva\obj\Debug\Loteria_Primitiva.Form2.resources
